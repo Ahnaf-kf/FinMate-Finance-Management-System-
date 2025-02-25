@@ -14,7 +14,12 @@ Contributions:
 
 Introduction
 
-Our online finance tracking system helps clients to manage their finance flawlessly helping them manage finance easily and professionally amid their busy life. This website offers features which are designed to help such busy individuals so that they can save time and also will meet all their finance management requirements. The user will be able to manage multiple bank accounts, transfer money from one account to another, see all account details in a single glance, pay bills with their accounts, track payments with their accounts, set a monthly budget and view them accordingly while also keeping track of various monthly payments. Multiple user profiles can be created and the website is tailored in a way that no other user can access other user’s information without the proper credentials. By helping manage finance easily, our platform will create a supportive environment where users can safely plan their finances and act accordingly while less wasting time on pen and paper doing so.
+Our online finance tracking system helps clients to manage their finance flawlessly helping them manage finance easily and professionally amid their busy life.
+This website offers features which are designed to help such busy individuals so that they can save time and also will meet all their finance management requirements.
+The user will be able to manage multiple bank accounts, transfer money from one account to another, see all account details in a single glance, pay bills with their accounts, 
+track payments with their accounts, set a monthly budget and view them accordingly while also keeping track of various monthly payments.
+Multiple user profiles can be created and the website is tailored in a way that no other user can access other user’s information without the proper credentials.
+By helping manage finance easily, our platform will create a supportive environment where users can safely plan their finances and act accordingly while less wasting time on pen and paper doing so.
 
 Project Features
 
