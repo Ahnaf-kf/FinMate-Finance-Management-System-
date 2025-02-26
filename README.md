@@ -6,10 +6,10 @@ Group No : 04, CSE370 Lab Section : 05, Spring 2024
 
 Contributions:
 
-22101471 - Shehran Rahman
-22101938 - Sameer Khairul
-23241138 - Ahnaf Akif
-21201729 - Abdulla Al Noman
+22101471 - Shehran Rahman;
+22101938 - Sameer Khairul;
+23241138 - Ahnaf Akif;
+21201729 - Abdulla Al Noman;
 22101843 - Hasnain Ahamed Bilash
 
 Introduction
